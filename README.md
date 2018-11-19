@@ -1,2 +1,2 @@
 # Lab14_DemoSlides
-demo presentation 
+Practice on how to create presentations via R Markdown and xaringan
